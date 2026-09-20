@@ -14,7 +14,7 @@ Eksperimen penanganan noise (averaging filter dan median filter) serta penajaman
 │   ├── blurred_image2.jpg
 │   └── blurred_image3.jpg
 ├── PCD_Assignment02.ipynb
-├── Laporan_PCD_Noise_Blur.pdf
+├── Laporan_PCD_Image_Enhancement_Using_Filtering_Jundan.pdf
 └── README.md
 ```
 
